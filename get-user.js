@@ -1,0 +1,1 @@
+document.write("Ini adalah kodingan untuk mendapatkan get user")
